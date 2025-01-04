@@ -1,7 +1,7 @@
 DHCP Lease Parser
 
 Version: 2.0
-Author: [Your Name]
+Author: Andrew Smalley - AKADATA LIMITED
 License: BSD-3
 Date: January 4, 2025
 Table of Contents
